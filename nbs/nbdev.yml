@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "xKAN"
+  site-url: "https://mlsquare.github.io/xKAN"
+  description: "Kolmogorov-Arnold Networks with various basis functions like B-Splines, Fourier, Chebyshev, Wavelets etc"
+  repo-branch: main
+  repo-url: "https://github.com/mlsquare/xKAN"
